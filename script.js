@@ -1,6 +1,9 @@
-let snake_case = 10;
-const width = 11;
 
+const div = document.getElementById('GitHub')
 
-const personAge = 20
+const logged = () => {
+  console.log(div. textContent);
+  console.log('commits');
+}
 console.log('personAge', personAge);
+// asdasd
