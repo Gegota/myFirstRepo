@@ -1,2 +1,9 @@
-const a = 1 
-const b = "Наша ветка lesson01"
+alert("Привет");
+console.log(" Привет");  
+
+let title;
+let screens;
+let screenPrice;
+let rollback;
+let fullPrice;
+let adaptive;
